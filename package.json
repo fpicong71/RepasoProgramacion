@@ -1,0 +1,11 @@
+{
+  "name": "r1_repetido",
+  "version": "1.0.0",
+  "description": "Repaso 1. Repetición del proceso de subir a git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kika",
+  "license": "ISC"
+}
